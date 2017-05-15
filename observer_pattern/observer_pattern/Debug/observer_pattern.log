@@ -1,0 +1,18 @@
+﻿Сборка начата 05.05.2017 11:14:54.
+     1>Проект "C:\c++_дз\projects\С++_дз\2 курс\2 semestr\задачі\№20(Observer)\observer_pattern\observer_pattern\observer_pattern.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+     1>c:\c++_дз\projects\с++_дз\2 курс\2 semestr\задачі\№20(observer)\observer_pattern\observer_pattern\observer_post_office.h(45): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\c++_дз\projects\с++_дз\2 курс\2 semestr\задачі\№20(observer)\observer_pattern\observer_pattern\MyForm.h(230): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+     1>c:\c++_дз\projects\с++_дз\2 курс\2 semestr\задачі\№20(observer)\observer_pattern\observer_pattern\MyForm.h(243): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+     1>c:\c++_дз\projects\с++_дз\2 курс\2 semestr\задачі\№20(observer)\observer_pattern\observer_pattern\MyForm.h(252): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\задачі\№20(Observer)\observer_pattern\Debug\observer_pattern.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\observer_pattern.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\задачі\№20(Observer)\observer_pattern\Debug\observer_pattern.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         observer_pattern.vcxproj -> C:\c++_дз\projects\С++_дз\2 курс\2 semestr\задачі\№20(Observer)\observer_pattern\Debug\observer_pattern.exe
+     1>Сборка проекта "C:\c++_дз\projects\С++_дз\2 курс\2 semestr\задачі\№20(Observer)\observer_pattern\observer_pattern\observer_pattern.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.20
